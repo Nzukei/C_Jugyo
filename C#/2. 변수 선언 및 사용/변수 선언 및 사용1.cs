@@ -1,6 +1,6 @@
 using System;
 
-class Hello
+class DeclareAndUseVariables
 {
     static void Main()
     {
